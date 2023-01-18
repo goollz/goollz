@@ -2,7 +2,7 @@
 
 <div dir="auto">
   <br>
-  <p align="left" dir="auto">I'm 21 years old and coffee lover (No, I'm not saying about java 😅)</p>
+  <p align="left" dir="auto">I'm 21 years old</p>
 </div>
 
 <h2 dir="auto"></h2>
