@@ -7,8 +7,6 @@
 
 <h2 dir="auto"></h2>
 
-- 💻 I’m currently working on my graduation project
-- 📚 I’m currently learning about graphics processing
 - 💭 “If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.” - Nikola Tesla
 
 ##
